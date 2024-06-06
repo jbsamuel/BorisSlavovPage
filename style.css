@@ -1,0 +1,21 @@
+body {
+    background-color: #282828;
+    margin: 0;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+
+}
+
+nav {
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+
+nav li {
+    list-style: none;
+    display: inline;
+}
